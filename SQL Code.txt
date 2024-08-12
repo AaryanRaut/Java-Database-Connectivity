@@ -1,0 +1,2 @@
+create table student(Id int primary key, Name char(100) not null, Mobile_no varchar(10), Gender varchar(10), State varchar(50), Address varchar(300), prog_lang varchar(20));
+
